@@ -9,3 +9,5 @@ Es un proyecto personal sin mas fin que poner en practica el conocimiento. Aun s
 > [!NOTE]
 >Las imagenes son random ya que es un proyecto meramente educativo.
 
+>[!WARNING]
+>Si al compilar no reconoce la ruta de las carpetas "imagenes", click derecho sobre el proyecto y seleccionar "clean and build"
